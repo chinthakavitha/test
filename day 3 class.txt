@@ -1,0 +1,8 @@
+First we have to create git account 
+sign in to that account by using personal mail id 
+after creating new account we have to create new repository 
+we have to give repository name and select public or private and create new repository and repository get created 
+
+
+
+        now we have to go to git bash and as we are doing first time we have to initialise so use git init command
