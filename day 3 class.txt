@@ -1,8 +1,31 @@
 First we have to create git account 
 sign in to that account by using personal mail id 
 after creating new account we have to create new repository 
-we have to give repository name and select public or private and create new repository and repository get created 
+we have to give repository name and select public or private and create new repository and repository get created we have to copy the link 
 
 
 
-        now we have to go to git bash and as we are doing first time we have to initialise so use git init command
+        now we have to go to git bash and as we are doing first time we have to initialise so use git init command 
+          now .git folder will create if we want to see .git folder we have to use ls-a command
+
+          after that git add . --->means to add multiple files
+                     or 
+                     git add file name ---->for one perticular file
+          every time we have to check our status by using git status command
+                   |
+                   |
+                   |
+           git commit -m "first"
+                   |
+                   |
+           git config --global user.email "chintakavithareddy@gmail.com"
+           git config --global user.name "kavitha"
+           git commit -m "first"
+           git status 
+     if we add or create a new folder just we have to git add . and git commit -m "any name" usethis commands and checking status 
+ 
+
+
+      now we have to create new token and we have to copy the token link and paste it somewhere when we crete git account we have on url link 
+   now we have to combine both urls and push that as push - origin master
+ 
