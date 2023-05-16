@@ -1,0 +1,16 @@
+#userlogin{
+    /* background-image: url("https://tse4.mm.bing.net/th?id=OIP.wiBGgTkpX3TBNlYrrUJ0yAHaLH&pid=Api&P=0&w=110&h=165");  */
+     /* background: linear-gradient(rgba(255,255,255,.5), rgba(0, 0, 0, 0)), url(https://tse1.mm.bing.net/th?id=OIP.jrLFQazTtlD9eiFH_AREdAHaE7&pid=Api&P=0&w=258&h=172);  */
+    
+    background-color: rgba(2, 19, 5, 0.947);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:666px;
+    width:50%;
+    margin-top: 5%;
+    margin-left: 25%;  
+}
+#user{
+    /* margin-top:33%; */
+    margin-left:20% ;
+}
